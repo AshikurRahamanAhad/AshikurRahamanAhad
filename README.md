@@ -16,7 +16,7 @@ I am actively learning **JavaScript** and the **MERN stack (MongoDB, Express.js,
 
 * **Languages:** `HTML`, `CSS` (basic knowledge)
 * **Design Tools:** `Photoshop`, `Illustrator`
-* **Future Learning:** `Python`, `Django`, `PHP`, `Laravel`, `Vue.js`, `DevOps`
+* **Future Learning:** `Python`, `Django`, `Flutter`, `DevOps`
 * **Interests:** `XML`, `Machine Learning (ML)`, `Artificial Intelligence (AI)`, `App Development`, `Web Development (Front-End & Back-End)`
 
 ---
