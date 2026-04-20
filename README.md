@@ -9,7 +9,7 @@ I am a **Full-Stack Developer** and **Tech Researcher** focused on architecting 
 
 * **Development:** `JavaScript`, `React.js`, `Node.js`, `Express.js`, `MongoDB`
 * **Design & UI:** `Photoshop`, `Illustrator`, `SVG Architecture`, `Tailwind CSS`
-* **Core Logic:** `Python`, `Systems Architecture`, `Web Engine Research`
+* **Core Logic:** `Systems Architecture`, `Web Engine Research`
 
 ---
 
