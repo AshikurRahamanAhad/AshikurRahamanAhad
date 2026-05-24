@@ -1,4 +1,4 @@
-# Tech Explorer & Full-Stack Developer
+# Software Engineer & Tech Researcher
 ### Building the systems of tomorrow.
 
 I am a **Full-Stack Developer** and **Tech Researcher** focused on architecting scalable digital systems and exploring web architecture. I specialize in the **MERN stack** and am currently investigating high-performance system interoperability.
