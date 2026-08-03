@@ -1,23 +1,21 @@
-# Software Engineer & Tech Researcher
-### Building the systems of tomorrow.
+# Full-Stack Web Developer
 
-I am a **Full-Stack Developer** and **Tech Researcher** focused on architecting scalable digital systems and exploring web architecture. I specialize in the **MERN stack** and am currently investigating high-performance system interoperability.
+I am a **Full-Stack Developer** focused on building web applications with the **MERN stack** and **Next.js**. I enjoy learning how backend systems, APIs, and databases work under the hood and building functional, practical software.
 
 ---
 
 ### 💻 Technical Proficiency
 
-* **Development:** `JavaScript`, `React.js`, `Node.js`, `Express.js`, `MongoDB`
-* **Design & UI:** `Photoshop`, `Illustrator`, `SVG Architecture`, `Tailwind CSS`
-* **Core Logic:** `Systems Architecture`, `Web Engine Research`
+* **Frontend:** `JavaScript (ES6+)`, `React.js`, `Next.js`, `HTML5`, `CSS3`, `Tailwind CSS`
+* **Backend & DB:** `Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `REST APIs`, `JWT`
+* **Design & Tools:** `Git`, `GitHub`, `Postman`
 
 ---
 
-### 🔭 Research & Development Interests
+### 🔭 Current Focus & Future Plans
 
-* **Browser Interoperability:** Researching native language execution standards.
-* **Web3 & Decentralization:** Exploring secure, scalable digital infrastructures.
-* **System Optimization:** Building for high-performance web environments.
+* **Currently Learning:** Deepening full-stack web development with Next.js and backend API architecture.
+* **Future Goals:** Planning to explore `Python`, `PostgreSQL`, `Linux Basic` and `DevOps` fundamentals as I grow as an engineer.
 
 ---
 
@@ -31,5 +29,10 @@ I am a **Full-Stack Developer** and **Tech Researcher** focused on architecting 
 
 ### 📂 Featured Projects
 
-* **MERN Stack Systems** - Architecting scalable backend structures with Node.js and MongoDB.
-* **Modern UI Research** - Implementing SVG-driven performance optimizations for web frontends.
+#### 1. [Blog Management System API](https://github.com/AshikurRahamanAhad/mod-20-blog-system)
+A RESTful API built for a multi-user blogging platform.
+* **Tech Stack:** `Node.js`, `Express.js`, `MongoDB`, `Mongoose`, `JWT`, `bcrypt`
+
+#### 2. [User Management API Structure](https://github.com/AshikurRahamanAhad/module-15-live-test)
+An Express.js backend project structure for a user management assignment.
+* **Tech Stack:** `Node.js`, `Express.js`, `JavaScript`, `REST APIs`
