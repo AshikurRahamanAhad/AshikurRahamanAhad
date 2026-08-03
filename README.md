@@ -14,8 +14,8 @@ I am a **Full-Stack Developer** focused on building web applications with the **
 
 ### 🔭 Current Focus & Future Plans
 
-* **Currently Learning:** Deepening full-stack web development with Next.js and backend API architecture.
-* **Future Goals:** Planning to explore `Python`, `PostgreSQL`, `Linux Basic` and `DevOps` fundamentals as I grow as an engineer.
+* **Currently Learning:** full-stack web development with JavaScript, MERN, Next.js and backend API architecture.
+* **Future Goals:** Planning to explore `TypeScript`,`Python`, `PostgreSQL`, `Linux Basic` and `DevOps` fundamentals as I grow as an engineer.
 
 ---
 
