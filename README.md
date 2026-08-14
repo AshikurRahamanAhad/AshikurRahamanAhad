@@ -1,6 +1,6 @@
 # Full-Stack Web Developer
 
-I am a **Full-Stack Developer** focused on building web applications with the **MERN stack** and **Next.js**. I enjoy learning how backend systems, APIs, and databases work under the hood and building functional, practical software.
+I am a **Full-Stack Developer** focused on building web applications with the **MERN stack** and **Next.js**. I'm passionate about understanding how backend systems, APIs, and databases work under the hood and building functional, practical software.
 
 ---
 
